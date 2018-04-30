@@ -1,0 +1,305 @@
+08 03 2018 20:03:06 El Archivo logLoginApp.txt se ha creado
+08 03 2018 20:03:06 {"usuario":"android.support.v7.widget.AppCompatEditText{bfdce85 VFED..CL. ........ 108,1008-864,1131 #7f070027 app:id\/editTextEmail}","contrasena":"android.support.v7.widget.AppCompatEditText{fdba4da VFED..CL. .F...... 108,1131-864,1275 #7f070028 app:id\/editTextPassword}"}
+08 03 2018 20:03:49 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:47 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:47 1
+08 03 2018 20:03:00 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:00 
+08 03 2018 20:03:05 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:05 
+08 03 2018 20:03:47 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:47 
+08 03 2018 20:03:30 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:30 POST VACIO
+08 03 2018 20:03:00 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:00 POST VACIO
+
+ ----------------------------FIN--------------------------- 
+08 03 2018 20:03:05 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:05 POST VACIO
+
+ ----------------------------FIN--------------------------- 
+08 03 2018 20:03:36 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:36 POST VACIO
+
+ ----------------------------FIN--------------------------- 
+08 03 2018 20:03:12 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:12 POST VACIO
+
+ ----------------------------FIN--------------------------- 
+08 03 2018 20:03:44 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08 03 2018 20:03:44 POST VACIO
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+Array
+Array POST VACIO
+
+ ----------------------------FIN--------------------------- 
+08-03-2018 09:06:31 
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado
+08-03-2018 09:06:31 POST VACIO
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado08-03-2018 09:16:15
+08-03-2018 09:16:15 POST VACIO 
+{"usuario":"usuario","contrasena":"pass"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:26:40
+10-03-2018 02:26:40 POST VACIO 
+{"user":"omar","pass":"1234"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:26:46
+10-03-2018 02:26:46 POST VACIO 
+{"user":"omar","pass":"1234"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:26:50
+10-03-2018 02:26:50 POST VACIO 
+{"user":"omar","pass":"1234"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:28:44
+10-03-2018 02:28:44 POST VACIO 
+{"user":"","pass":""}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:30:40
+10-03-2018 02:30:40 POST VACIO 
+{"user":"omar","pass":"1234"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:31:57
+10-03-2018 02:31:57 POST VACIO 
+{"user":"omar","pass":"1234"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:33:27
+10-03-2018 02:33:27 POST VACIO 
+{"user":"omar","pass":"ok123"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:35:22
+10-03-2018 02:35:22 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:35:39
+10-03-2018 02:35:39 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:36:09
+10-03-2018 02:36:09 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:38:43
+10-03-2018 02:38:43 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:41:45
+10-03-2018 02:41:45 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:41:48
+10-03-2018 02:41:48 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:43:13
+10-03-2018 02:43:13 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:44:54
+10-03-2018 02:44:54 POST VACIO 
+{"user":"usuarioapp@test.con","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:45:01
+10-03-2018 02:45:01 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 02:46:24
+10-03-2018 02:46:24 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 03:29:18
+10-03-2018 03:29:18 POST VACIO 
+{"user":"gas","pass":"pedi"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 03:30:20
+10-03-2018 03:30:20 POST VACIO 
+{"user":"fdd","pass":"ffd"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 03:31:43
+10-03-2018 03:31:43 POST VACIO 
+{"user":"asd","pass":"asd"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:05:36
+10-03-2018 04:05:36 POST VACIO 
+{"user":"gh","pass":"gh"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:05:49
+10-03-2018 04:05:49 POST VACIO 
+{"user":"gh","pass":"gh"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:08:14
+10-03-2018 04:08:14 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:09:05
+10-03-2018 04:09:05 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:11:06
+10-03-2018 04:11:06 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:12:20
+10-03-2018 04:12:20 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:13:40
+10-03-2018 04:13:40 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:16:45
+10-03-2018 04:16:45 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:47:15
+10-03-2018 04:47:15 POST VACIO 
+{"user":"userapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:52:09
+10-03-2018 04:52:09 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 04:55:50
+10-03-2018 04:55:50 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 05:05:27
+10-03-2018 05:05:27 POST VACIO 
+{"user":"usuarioapp@test.com","pass":"12345678"}
+
+ ----------------------------FIN--------------------------- 
+
+ ----------------------------INICIO------------------------- 
+El Archivo logLoginApp.txt se ha modificado10-03-2018 07:53:14
+10-03-2018 07:53:14 {"user":"g","pass":"g"}
+
+ ----------------------------FIN--------------------------- 

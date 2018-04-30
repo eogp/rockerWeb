@@ -1,0 +1,2626 @@
+22 02 2018 17:02:20 El Archivo logMP.txt se ha creado
+22 02 2018 17:02:20 topi = payment 
+payment id: 3428874188
+paymeninfo: 
+Array
+22 02 2018 17:02:39 El Archivo logMP.txt se ha modificado
+22 02 2018 17:02:39 topi = payment 
+payment id: 3428874188
+paymeninfo: 
+Array
+22 02 2018 17:02:56 El Archivo logMP.txt se ha modificado
+22 02 2018 17:02:56 topi = payment 
+payment id: 3428874188
+paymeninfo: 
+Array
+22 02 2018 18:02:12 El Archivo logMP.txt se ha modificado
+22 02 2018 18:02:12 topi = payment 
+payment id: 3475472260
+paymeninfo: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3475472260
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T17:12:47.000-04:00
+                    [date_approved] => 
+                    [money_release_date] => 
+                    [last_modified] => 2018-02-22T17:12:47.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303758323
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 12345678
+                                )
+
+                            [email] => test_user_6044524@testuser.com
+                            [nickname] => TETE2912060
+                        )
+
+                    [order_id] => 
+                    [external_reference] => 
+                    [merchant_order_id] => 664737785
+                    [reason] => Publicaión Mensual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 0
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => rejected
+                    [status_detail] => cc_rejected_high_risk
+                    [installments] => 1
+                    [issuer_id] => 310
+                    [installment_amount] => 600
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => WWW.MERCADOPAGO.COM
+                    [cardholder] => Array
+                        (
+                            [name] => APRO
+                            [identification] => Array
+                                (
+                                    [number] => 12345678
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+
+22 02 2018 18:02:38 El Archivo logMP.txt se ha modificado
+22 02 2018 18:02:38 topi = payment 
+payment id: 3474945711
+paymeninfo: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3474945711
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T17:23:25.000-04:00
+                    [date_approved] => 
+                    [money_release_date] => 
+                    [last_modified] => 2018-02-22T17:23:25.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303761700
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_62906427@testuser.com
+                            [nickname] => TETE384999
+                        )
+
+                    [order_id] => 
+                    [external_reference] => 
+                    [merchant_order_id] => 664733042
+                    [reason] => Publicaión Mensual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 0
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => rejected
+                    [status_detail] => cc_rejected_high_risk
+                    [installments] => 1
+                    [issuer_id] => 310
+                    [installment_amount] => 600
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => WWW.MERCADOPAGO.COM
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+
+22 02 2018 18:02:14 El Archivo logMP.txt se ha modificado
+22 02 2018 18:02:14 topi = payment 
+payment id: 3475789189
+paymeninfo: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3475789189
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T17:30:56.000-04:00
+                    [date_approved] => 2018-02-22T17:30:56.000-04:00
+                    [money_release_date] => 2018-03-08T17:30:56.000-04:00
+                    [last_modified] => 2018-02-22T17:30:56.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => 
+                    [external_reference] => 
+                    [merchant_order_id] => 664740648
+                    [reason] => Publicaión Mensual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 567.72
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => approved
+                    [status_detail] => accredited
+                    [installments] => 1
+                    [issuer_id] => 2
+                    [installment_amount] => 600
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => MERCADOPAGO
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 1234567
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+payment: 600
+
+22 02 2018 19:02:57 El Archivo logMP.txt se ha modificado
+22 02 2018 19:02:57 topi = payment 
+payment id: 3475852409
+paymeninfo: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3475852409
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T18:36:50.000-04:00
+                    [date_approved] => 2018-02-22T18:36:51.000-04:00
+                    [money_release_date] => 2018-03-08T18:36:51.000-04:00
+                    [last_modified] => 2018-02-22T18:36:51.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => 54
+                    [external_reference] => 54
+                    [merchant_order_id] => 664788133
+                    [reason] => Publicaión Mensual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 100
+                    [net_received_amount] => 94.62
+                    [total_paid_amount] => 100
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => approved
+                    [status_detail] => accredited
+                    [installments] => 1
+                    [issuer_id] => 2
+                    [installment_amount] => 100
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => MERCADOPAGO
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 1234567
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+payment: 100
+
+22 02 2018 20:02:13 El Archivo logMP.txt se ha modificado
+22 02 2018 20:02:13 topic = payment 
+payment id: 3475931543
+paymeninfo: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664839862
+            [preference_id] => 303746347-35221f31-a81b-441e-a323-54d7341b7a63
+            [date_created] => 2018-02-22T19:55:53.000-04:00
+            [last_updated] => 2018-02-22T19:56:09.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3475931543
+                            [transaction_amount] => 1200
+                            [total_paid_amount] => 1200
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => approved
+                            [status_detail] => accredited
+                            [operation_type] => regular_payment
+                            [date_approved] => 2018-02-22T19:56:06.000-04:00
+                            [date_created] => 2018-02-22T19:56:05.000-04:00
+                            [last_modified] => 2018-02-22T19:56:06.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 1200
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 55
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 1200
+                            [title] => Publicación de por vida RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => 55
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 1200
+        )
+
+)
+payment: 1200
+
+22 02 2018 21:02:17 El Archivo logMP.txt se ha modificado
+22 02 2018 21:02:17 topic = payment 
+payment id: 3476003751
+paymeninfo: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664870919
+            [preference_id] => 303746347-1a203e5d-f7e6-4d74-bdfb-f4e8fdd261c6
+            [date_created] => 2018-02-22T20:20:21.000-04:00
+            [last_updated] => 2018-02-22T20:21:13.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476003751
+                            [transaction_amount] => 1200
+                            [total_paid_amount] => 1301.64
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => approved
+                            [status_detail] => accredited
+                            [operation_type] => regular_payment
+                            [date_approved] => 2018-02-22T20:21:10.000-04:00
+                            [date_created] => 2018-02-22T20:21:09.000-04:00
+                            [last_modified] => 2018-02-22T20:21:10.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 1200
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 56
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 1200
+                            [title] => Publicación de por vida RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => 56
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 1200
+        )
+
+)
+payment: 1200
+
+22 02 2018 21:02:03 El Archivo logMP.txt se ha modificado
+22 02 2018 21:02:03 topic = payment 
+payment id: 3476341038
+paymeninfo: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664859856
+            [preference_id] => 303746347-707f582c-3654-4380-8541-0cf71e3f5352
+            [date_created] => 2018-02-22T20:21:30.000-04:00
+            [last_updated] => 2018-02-22T20:22:00.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476341038
+                            [transaction_amount] => 1200
+                            [total_paid_amount] => 1200
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => pending
+                            [status_detail] => pending_waiting_payment
+                            [operation_type] => regular_payment
+                            [date_approved] => 
+                            [date_created] => 2018-02-22T20:21:56.000-04:00
+                            [last_modified] => 2018-02-22T20:21:56.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 0
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 57
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 1200
+                            [title] => Publicación de por vida RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => 57
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 1200
+        )
+
+)
+
+22 02 2018 22:02:59 El Archivo logMP.txt se ha modificado
+22 02 2018 22:02:59 ----------------------------INICIO-------------------------topic = payment 
+payment id: 3476387651
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3476387651
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T21:14:51.000-04:00
+                    [date_approved] => 2018-02-22T21:14:52.000-04:00
+                    [money_release_date] => 2018-03-08T21:14:52.000-04:00
+                    [last_modified] => 2018-02-22T21:14:52.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Anual
+                    [external_reference] => Anual
+                    [merchant_order_id] => 664896009
+                    [reason] => Publicación Anual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 567.72
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => approved
+                    [status_detail] => accredited
+                    [installments] => 1
+                    [issuer_id] => 2
+                    [installment_amount] => 600
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => MERCADOPAGO
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 1234567
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664896009
+            [preference_id] => 303746347-6e09a4dc-e360-4b19-bb14-77c9686c5f1d
+            [date_created] => 2018-02-22T21:14:41.000-04:00
+            [last_updated] => 2018-02-22T21:14:55.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476387651
+                            [transaction_amount] => 600
+                            [total_paid_amount] => 600
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => approved
+                            [status_detail] => accredited
+                            [operation_type] => regular_payment
+                            [date_approved] => 2018-02-22T21:14:52.000-04:00
+                            [date_created] => 2018-02-22T21:14:51.000-04:00
+                            [last_modified] => 2018-02-22T21:14:52.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 600
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 58
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 600
+                            [title] => Publicación Anual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Anual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 600
+        )
+
+)
+payment: 600
+----------------------------FIN---------------------------
+22 02 2018 22:02:29 El Archivo logMP.txt se ha modificado
+22 02 2018 22:02:29 ----------------------------INICIO-------------------------topic = payment 
+payment id: 3476263565
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3476263565
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T21:15:18.000-04:00
+                    [date_approved] => 2018-02-22T21:15:19.000-04:00
+                    [money_release_date] => 2018-03-08T21:15:19.000-04:00
+                    [last_modified] => 2018-02-22T21:15:19.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Anual
+                    [external_reference] => Anual
+                    [merchant_order_id] => 664904909
+                    [reason] => Publicación Anual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 567.72
+                    [total_paid_amount] => 774.24
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => approved
+                    [status_detail] => accredited
+                    [installments] => 12
+                    [issuer_id] => 2
+                    [installment_amount] => 64.52
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => MERCADOPAGO
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 1234567
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664904909
+            [preference_id] => 303746347-340fdc27-eaf0-422c-a399-1f5df20e4e42
+            [date_created] => 2018-02-22T21:15:06.000-04:00
+            [last_updated] => 2018-02-22T21:15:23.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476263565
+                            [transaction_amount] => 600
+                            [total_paid_amount] => 774.24
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => approved
+                            [status_detail] => accredited
+                            [operation_type] => regular_payment
+                            [date_approved] => 2018-02-22T21:15:19.000-04:00
+                            [date_created] => 2018-02-22T21:15:18.000-04:00
+                            [last_modified] => 2018-02-22T21:15:19.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 600
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 59
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 600
+                            [title] => Publicación Anual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Anual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 600
+        )
+
+)
+payment: 600
+----------------------------FIN---------------------------
+22 02 2018 22:02:05 El Archivo logMP.txt se ha modificado
+22 02 2018 22:02:05 ----------------------------INICIO-------------------------topic = payment 
+payment id: 3476388682
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3476388682
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T21:16:00.000-04:00
+                    [date_approved] => 
+                    [money_release_date] => 
+                    [last_modified] => 2018-02-22T21:16:00.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Anual
+                    [external_reference] => Anual
+                    [merchant_order_id] => 664896141
+                    [reason] => Publicación Anual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 0
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => pending
+                    [status_detail] => pending_waiting_payment
+                    [issuer_id] => 
+                    [installment_amount] => 0
+                    [deferred_period] => 
+                    [payment_type] => ticket
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [tags] => Array
+                                (
+                                    [0] => payment_option_id-pagofacil
+                                )
+
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664896141
+            [preference_id] => 303746347-41eba15a-4352-4b04-aced-32dc72d9b420
+            [date_created] => 2018-02-22T21:15:34.000-04:00
+            [last_updated] => 2018-02-22T21:16:01.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476388682
+                            [transaction_amount] => 600
+                            [total_paid_amount] => 600
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => pending
+                            [status_detail] => pending_waiting_payment
+                            [operation_type] => regular_payment
+                            [date_approved] => 
+                            [date_created] => 2018-02-22T21:16:00.000-04:00
+                            [last_modified] => 2018-02-22T21:16:00.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 0
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 60
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 600
+                            [title] => Publicación Anual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Anual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 600
+        )
+
+)
+
+22 02 2018 22:02:40 El Archivo logMP.txt se ha modificado
+22 02 2018 22:02:40 ----------------------------INICIO-------------------------topic = payment 
+payment id: 3476032038
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3476032038
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T21:16:34.000-04:00
+                    [date_approved] => 
+                    [money_release_date] => 
+                    [last_modified] => 2018-02-22T21:16:34.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Anual
+                    [external_reference] => Anual
+                    [merchant_order_id] => 664905036
+                    [reason] => Publicación Anual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 0
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => pending
+                    [status_detail] => pending_waiting_payment
+                    [issuer_id] => 
+                    [installment_amount] => 0
+                    [deferred_period] => 
+                    [payment_type] => atm
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [tags] => Array
+                                (
+                                    [0] => payment_option_id-redlink_atm
+                                )
+
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664905036
+            [preference_id] => 303746347-8352c6d1-22e7-47c1-8d2a-e7be03e28267
+            [date_created] => 2018-02-22T21:16:12.000-04:00
+            [last_updated] => 2018-02-22T21:16:36.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476032038
+                            [transaction_amount] => 600
+                            [total_paid_amount] => 600
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => pending
+                            [status_detail] => pending_waiting_payment
+                            [operation_type] => regular_payment
+                            [date_approved] => 
+                            [date_created] => 2018-02-22T21:16:34.000-04:00
+                            [last_modified] => 2018-02-22T21:16:34.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 0
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 61
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 600
+                            [title] => Publicación Anual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Anual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 600
+        )
+
+)
+
+22 02 2018 22:02:36 El Archivo logMP.txt se ha modificado
+22 02 2018 22:02:36 ----------------------------INICIO-------------------------topic = payment 
+payment id: 3476389995
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3476389995
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T21:17:26.000-04:00
+                    [date_approved] => 
+                    [money_release_date] => 
+                    [last_modified] => 2018-02-22T21:17:26.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Anual
+                    [external_reference] => Anual
+                    [merchant_order_id] => 664905211
+                    [reason] => Publicación Anual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 0
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => pending
+                    [status_detail] => pending_waiting_payment
+                    [issuer_id] => 
+                    [installment_amount] => 0
+                    [deferred_period] => 
+                    [payment_type] => ticket
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [tags] => Array
+                                (
+                                    [0] => payment_option_id-bapropagos
+                                )
+
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664905211
+            [preference_id] => 303746347-8e9fb09b-be64-429e-8bb1-8d5e8db6345e
+            [date_created] => 2018-02-22T21:17:26.000-04:00
+            [last_updated] => 2018-02-22T21:17:32.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476389995
+                            [transaction_amount] => 600
+                            [total_paid_amount] => 600
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => pending
+                            [status_detail] => pending_waiting_payment
+                            [operation_type] => regular_payment
+                            [date_approved] => 
+                            [date_created] => 2018-02-22T21:17:26.000-04:00
+                            [last_modified] => 2018-02-22T21:17:26.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 0
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 62
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 600
+                            [title] => Publicación Anual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Anual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 600
+        )
+
+)
+
+22 02 2018 22:02:01 El Archivo logMP.txt se ha modificado
+22 02 2018 22:02:01 ----------------------------INICIO-------------------------topic = payment 
+payment id: 3476390395
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3476390395
+                    [site_id] => MLA
+                    [date_created] => 2018-02-22T21:17:54.000-04:00
+                    [date_approved] => 
+                    [money_release_date] => 
+                    [last_modified] => 2018-02-22T21:17:54.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Anual
+                    [external_reference] => Anual
+                    [merchant_order_id] => 664905268
+                    [reason] => Publicación Anual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 0
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => pending
+                    [status_detail] => pending_waiting_payment
+                    [issuer_id] => 
+                    [installment_amount] => 0
+                    [deferred_period] => 
+                    [payment_type] => atm
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [tags] => Array
+                                (
+                                    [0] => payment_option_id-redlink_bank
+                                )
+
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 664905268
+            [preference_id] => 303746347-40474b5f-44e5-4423-8abe-78f24bdad2cf
+            [date_created] => 2018-02-22T21:17:42.000-04:00
+            [last_updated] => 2018-02-22T21:17:57.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3476390395
+                            [transaction_amount] => 600
+                            [total_paid_amount] => 600
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => pending
+                            [status_detail] => pending_waiting_payment
+                            [operation_type] => regular_payment
+                            [date_approved] => 
+                            [date_created] => 2018-02-22T21:17:54.000-04:00
+                            [last_modified] => 2018-02-22T21:17:54.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 0
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 63
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 600
+                            [title] => Publicación Anual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Anual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 600
+        )
+
+)
+
+25 02 2018 15:02:11 
+ ----------------------------INICIO------------------------- 
+El Archivo logMP.txt se ha modificado
+25 02 2018 15:02:11 
+ topic = payment 
+payment id: 3483044333
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3483044333
+                    [site_id] => MLA
+                    [date_created] => 2018-02-25T14:29:54.000-04:00
+                    [date_approved] => 2018-02-25T14:29:55.000-04:00
+                    [money_release_date] => 2018-03-11T14:29:55.000-04:00
+                    [last_modified] => 2018-02-25T14:29:55.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Anual
+                    [external_reference] => Anual
+                    [merchant_order_id] => 666444315
+                    [reason] => Publicación Anual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 600
+                    [net_received_amount] => 567.72
+                    [total_paid_amount] => 600
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => approved
+                    [status_detail] => accredited
+                    [installments] => 1
+                    [issuer_id] => 2
+                    [installment_amount] => 600
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => MERCADOPAGO
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 1234567
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 666444315
+            [preference_id] => 303746347-4e8e6b21-52fe-4346-a1da-634c038c1cf5
+            [date_created] => 2018-02-25T14:29:46.000-04:00
+            [last_updated] => 2018-02-25T14:29:58.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3483044333
+                            [transaction_amount] => 600
+                            [total_paid_amount] => 600
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => approved
+                            [status_detail] => accredited
+                            [operation_type] => regular_payment
+                            [date_approved] => 2018-02-25T14:29:55.000-04:00
+                            [date_created] => 2018-02-25T14:29:54.000-04:00
+                            [last_modified] => 2018-02-25T14:29:55.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 600
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 66
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 600
+                            [title] => Publicación Anual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Anual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 600
+        )
+
+)
+payment: 600
+----------------------------FIN---------------------------
+25 02 2018 18:02:29 
+ ----------------------------INICIO------------------------- 
+El Archivo logMP.txt se ha modificado
+25 02 2018 18:02:29 
+ topic = payment 
+payment id: 3483527831
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3483527831
+                    [site_id] => MLA
+                    [date_created] => 2018-02-25T17:16:20.000-04:00
+                    [date_approved] => 2018-02-25T17:16:21.000-04:00
+                    [money_release_date] => 2018-03-11T17:16:21.000-04:00
+                    [last_modified] => 2018-02-25T17:16:21.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => Mensual
+                    [external_reference] => Mensual
+                    [merchant_order_id] => 666539737
+                    [reason] => Publicación Mensual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 100
+                    [net_received_amount] => 94.62
+                    [total_paid_amount] => 100
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => approved
+                    [status_detail] => accredited
+                    [installments] => 1
+                    [issuer_id] => 2
+                    [installment_amount] => 100
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => MERCADOPAGO
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 1234567
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 666539737
+            [preference_id] => 303746347-578e87d9-272c-4e3e-8c66-ce0e50fb228f
+            [date_created] => 2018-02-25T17:16:11.000-04:00
+            [last_updated] => 2018-02-25T17:16:25.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3483527831
+                            [transaction_amount] => 100
+                            [total_paid_amount] => 100
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => approved
+                            [status_detail] => accredited
+                            [operation_type] => regular_payment
+                            [date_approved] => 2018-02-25T17:16:21.000-04:00
+                            [date_created] => 2018-02-25T17:16:20.000-04:00
+                            [last_modified] => 2018-02-25T17:16:21.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 100
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 67
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 100
+                            [title] => Publicación Mensual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Mensual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 100
+        )
+
+)
+payment: 100
+----------------------------FIN---------------------------
+25 02 2018 18:02:21 
+ ----------------------------INICIO------------------------- 
+El Archivo logMP.txt se ha modificado
+25 02 2018 18:02:21 
+ topic = payment 
+payment id: 3483209789
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3483209789
+                    [site_id] => MLA
+                    [date_created] => 2018-02-25T17:34:06.000-04:00
+                    [date_approved] => 2018-02-25T17:34:10.000-04:00
+                    [money_release_date] => 2018-03-11T17:34:10.000-04:00
+                    [last_modified] => 2018-02-25T17:34:10.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 303763877
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => DNI
+                                    [number] => 1111111
+                                )
+
+                            [email] => test_user_75602677@testuser.com
+                            [nickname] => TT789583
+                        )
+
+                    [order_id] => deporvida
+                    [external_reference] => deporvida
+                    [merchant_order_id] => 666533959
+                    [reason] => Publicación de por vida RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 1200
+                    [net_received_amount] => 1135.44
+                    [total_paid_amount] => 1200
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => approved
+                    [status_detail] => accredited
+                    [installments] => 1
+                    [issuer_id] => 2
+                    [installment_amount] => 1200
+                    [deferred_period] => 
+                    [payment_type] => credit_card
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [transaction_order_id] => 
+                    [statement_descriptor] => MERCADOPAGO
+                    [cardholder] => Array
+                        (
+                            [name] => Test Test
+                            [identification] => Array
+                                (
+                                    [number] => 1111111
+                                    [type] => DNI
+                                )
+
+                        )
+
+                    [authorization_code] => 1234567
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 303746347
+                            [first_name] => Test
+                            [last_name] => Test
+                            [phone] => Array
+                                (
+                                    [area_code] => 01
+                                    [number] => 1111-1111
+                                    [extension] => 
+                                )
+
+                            [email] => test_user_51417165@testuser.com
+                            [nickname] => TESTLSEXLZHE
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 666533959
+            [preference_id] => 303746347-04d41b57-f080-4423-ad99-2b978ffa527e
+            [date_created] => 2018-02-25T17:33:54.000-04:00
+            [last_updated] => 2018-02-25T17:34:14.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 303763877
+                    [email] => test_user_75602677@testuser.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 303746347
+                    [email] => test_user_51417165@testuser.com
+                    [nickname] => TESTLSEXLZHE
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3483209789
+                            [transaction_amount] => 1200
+                            [total_paid_amount] => 1200
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => approved
+                            [status_detail] => accredited
+                            [operation_type] => regular_payment
+                            [date_approved] => 2018-02-25T17:34:10.000-04:00
+                            [date_created] => 2018-02-25T17:34:06.000-04:00
+                            [last_modified] => 2018-02-25T17:34:10.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 1200
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 68
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 1200
+                            [title] => Publicación de por vida RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => deporvida
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 1200
+        )
+
+)
+payment: 1200
+----------------------------FIN---------------------------
+28 02 2018 19:02:29 El Archivo logMP.txt se ha modificado
+28 02 2018 19:02:29 topi = payment 
+payment id: 3428874188
+paymeninfo: 
+Array
+28 02 2018 19:02:57 
+ ----------------------------INICIO------------------------- 
+El Archivo logMP.txt se ha modificado
+28 02 2018 19:02:57 
+ topic = payment 
+payment id: 3494052704
+payment_info: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [collection] => Array
+                (
+                    [id] => 3494052704
+                    [site_id] => MLA
+                    [date_created] => 2018-02-28T18:31:51.000-04:00
+                    [date_approved] => 
+                    [money_release_date] => 
+                    [last_modified] => 2018-02-28T18:31:51.000-04:00
+                    [payer] => Array
+                        (
+                            [id] => 233964576
+                            [first_name] => 
+                            [last_name] => test
+                            [phone] => Array
+                                (
+                                    [area_code] => 
+                                    [number] => 
+                                    [extension] => 
+                                )
+
+                            [identification] => Array
+                                (
+                                    [type] => 
+                                    [number] => 
+                                )
+
+                            [email] => test@final.com
+                            [nickname] => @233964576
+                        )
+
+                    [order_id] => Mensual
+                    [external_reference] => Mensual
+                    [merchant_order_id] => 669056538
+                    [reason] => Publicación Mensual RockerApp
+                    [currency_id] => ARS
+                    [transaction_amount] => 100
+                    [net_received_amount] => 0
+                    [total_paid_amount] => 100
+                    [shipping_cost] => 0
+                    [coupon_amount] => 0
+                    [coupon_fee] => 0
+                    [finance_fee] => 0
+                    [discount_fee] => 0
+                    [coupon_id] => 
+                    [status] => pending
+                    [status_detail] => pending_waiting_payment
+                    [issuer_id] => 
+                    [installment_amount] => 0
+                    [deferred_period] => 
+                    [payment_type] => ticket
+                    [marketplace] => NONE
+                    [operation_type] => regular_payment
+                    [marketplace_fee] => 0
+                    [deduction_schema] => 
+                    [refunds] => Array
+                        (
+                        )
+
+                    [amount_refunded] => 0
+                    [last_modified_by_admin] => 
+                    [api_version] => 2
+                    [concept_id] => 
+                    [concept_amount] => 0
+                    [internal_metadata] => Array
+                        (
+                            [tags] => Array
+                                (
+                                    [0] => payment_option_id-pagofacil
+                                )
+
+                            [processed_by] => checkout-off-v1
+                        )
+
+                    [collector] => Array
+                        (
+                            [id] => 33922682
+                            [first_name] => Enrique Omar
+                            [last_name] => Gómez Peña
+                            [phone] => Array
+                                (
+                                    [area_code] => 011
+                                    [number] => 1550394900
+                                    [extension] => 
+                                )
+
+                            [email] => eo-gp@hotmail.com
+                            [nickname] => OMAR OMAR
+                        )
+
+                )
+
+        )
+
+)
+merchant_orders: 
+Array
+(
+    [status] => 200
+    [response] => Array
+        (
+            [id] => 669056538
+            [preference_id] => 33922682-7f01961d-3708-455c-94ab-b6387d6fd8b3
+            [date_created] => 2018-02-28T18:31:43.000-04:00
+            [last_updated] => 2018-02-28T18:31:54.000-04:00
+            [application_id] => 
+            [status] => closed
+            [site_id] => MLA
+            [payer] => Array
+                (
+                    [id] => 233964576
+                    [email] => test@final.com
+                )
+
+            [collector] => Array
+                (
+                    [id] => 33922682
+                    [email] => eo-gp@hotmail.com
+                    [nickname] => OMAR OMAR
+                )
+
+            [sponsor_id] => 
+            [payments] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 3494052704
+                            [transaction_amount] => 100
+                            [total_paid_amount] => 100
+                            [shipping_cost] => 0
+                            [currency_id] => ARS
+                            [status] => pending
+                            [status_detail] => pending_waiting_payment
+                            [operation_type] => regular_payment
+                            [date_approved] => 
+                            [date_created] => 2018-02-28T18:31:51.000-04:00
+                            [last_modified] => 2018-02-28T18:31:51.000-04:00
+                            [amount_refunded] => 0
+                        )
+
+                )
+
+            [paid_amount] => 0
+            [refunded_amount] => 0
+            [shipping_cost] => 0
+            [cancelled] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [category_id] => 
+                            [currency_id] => ARS
+                            [description] => 
+                            [id] => 70
+                            [picture_url] => 
+                            [quantity] => 1
+                            [unit_price] => 100
+                            [title] => Publicación Mensual RockerApp
+                        )
+
+                )
+
+            [marketplace] => NONE
+            [shipments] => Array
+                (
+                )
+
+            [external_reference] => Mensual
+            [additional_info] => 
+            [notification_url] => 
+            [total_amount] => 100
+        )
+
+)
+----------------------------FIN---------------------------

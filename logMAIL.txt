@@ -1,0 +1,32 @@
+20 02 2018 17:02:28 El Archivo logMAIL.txt se ha creado
+20 02 2018 17:02:28 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 17:02:39 El Archivo logMAIL.txt se ha modificado
+20 02 2018 17:02:39 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 17:02:49 El Archivo logMAIL.txt se ha modificado
+20 02 2018 17:02:49 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 17:02:39 El Archivo logMAIL.txt se ha modificado
+20 02 2018 17:02:39 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 17:02:51 El Archivo logMAIL.txt se ha modificado
+20 02 2018 17:02:51 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 21:02:23 El Archivo logMAIL.txt se ha modificado
+20 02 2018 21:02:23 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 21:02:17 El Archivo logMAIL.txt se ha modificado
+20 02 2018 21:02:17 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 22:02:31 El Archivo logMAIL.txt se ha modificado
+20 02 2018 22:02:31 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+20 02 2018 22:02:11 El Archivo logMAIL.txt se ha modificado
+20 02 2018 22:02:11 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+21 02 2018 18:02:16 El Archivo logMAIL.txt se ha modificado
+21 02 2018 18:02:16 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+28 02 2018 19:02:56 El Archivo logMAIL.txt se ha modificado
+28 02 2018 19:02:56 recupero de contraseña solicitado para mail fuera de db: s@s.com
+28 02 2018 19:02:12 El Archivo logMAIL.txt se ha modificado
+28 02 2018 19:02:12 recupero de contraseña solicitado para mail fuera de db: x64x64x64@gmail.com
+28 02 2018 19:02:37 El Archivo logMAIL.txt se ha modificado
+28 02 2018 19:02:37 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com
+28 02 2018 19:02:22 El Archivo logMAIL.txt se ha modificado
+28 02 2018 19:02:22 recupero de contraseña solicitado para mail fuera de db: x64x64x64@gmail.com
+28 02 2018 19:02:34 El Archivo logMAIL.txt se ha modificado
+28 02 2018 19:02:34 recupero de contraseña solicitado y enviado con exito para: x64x64x64@gmail.com
+01 03 2018 17:03:55 El Archivo logMAIL.txt se ha modificado
+01 03 2018 17:03:55 recupero de contraseña solicitado y enviado con exito para: eo-gp@hotmail.com

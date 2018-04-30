@@ -1,0 +1,14 @@
+{
+    "name": "vendor/test",
+    "description": "Description of project test.",
+    "authors": [
+        {
+            "name": "enriquegomezpena",
+            "email": "eo-gp@hotmail.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "dev-master",
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
