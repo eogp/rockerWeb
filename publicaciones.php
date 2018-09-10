@@ -190,7 +190,7 @@ function obetnerProductosEstiloVida() {
 function insertarPublicacion(TipoPub $tipoPub) {
     $fechaYhora = date("Y-m-d H:i:s");
     $publicacion = new Publicacion(
-            null, $_POST['titulo'], null, $_SESSION['usuario']->getId(), $fechaYhora, false, $_POST['email'], false, $tipoPub->getId(), $_POST['web']
+            null, $_POST['titulo'], null, $_SESSION['usuario']->getId(), $fechaYhora, true, $_POST['email'], false, $tipoPub->getId(), $_POST['web']
     );
     $publicacionModel = new PublicacionModel();
     $publicacion->setId($publicacionModel->insertar($publicacion));
@@ -459,7 +459,13 @@ function altaPublicacion(TipoPub $tipoPub) {
             insertarValorShowEvento($publicacion->getId());
             break;
     }
-    pagoPublicacion($publicacion->getId());
+    //pagoPublicacion($publicacion->getId());
+    if($publicacion->getId()!=null){
+        header('Location: /PUserNPubOK.php');
+    
+    }else{
+        header('Location: /ErrorAltaPub.php');
+    }
 }
 //------------------------------------------------------------------------------
 

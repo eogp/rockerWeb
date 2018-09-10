@@ -69,13 +69,14 @@ and open the template in the editor.
 --> 
 <html>
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
         <title>ROCKER APP . La guía del músico</title>
 
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" /><!-- Bootstrap -->
         <link rel="stylesheet" href="css/sombra.css" type="text/css" /><!-- Sombra -->
+        <link rel="stylesheet" href="css/PUser.css" type="text/css" /><!-- Estilos -->
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114906961-1"></script>
         <script>
@@ -113,16 +114,12 @@ and open the template in the editor.
                     <br/>
                     Recorda tener tus datos actualizados para no  perderte ninguna novedad y/o promoción.
 
-                    <div> 
+                    <div class="text-center"> 
                         <br>
-                        <a href="PUserUUser.php">
-                            <img src="images/resource/actualizarDatos.jpg" alt="Actualiza tus datos."  > 
-                        </a>
+                        <input onclick="location.href = 'PUserUUser.php'" class="btn-blue" type="button"  value="Ver / Editar >">
                     </div>
-                    </p>
-
-                    <p>
-                        <br/>
+             
+                    <br/>
                     <h3>Tus puntos</h3>
                     <br/>
                     Estos son los puntos que tenes cargados en rocker App.
@@ -130,19 +127,20 @@ and open the template in the editor.
 
                     <div> 
                         <br>
-                        <a href="PUserNPub.php">
-                            <img src="images/resource/nuevaPublicacion.jpg" alt="Crea una nueva puclicación"  > 
-                        </a>
+                        <div class="text-center">
+                            <input onclick="location.href = 'PUserNPub.php'" class="btn-blue" type="button"  value="Agrega una nueva publicación >">
+                        </div>
                     </div>
+                    <br/>
                     <br/>
                     <div>
                         <?php
                         $publicacionModel = new PublicacionModel();
                         $publicaciones = $publicacionModel->obetenerPublicacionesByUser($usuario->getId());
-                        $pagosModel = new PagosModel();
+//                        $pagosModel = new PagosModel();
                         if (count($publicaciones) > 0) {
                             foreach ($publicaciones as $publicacion) {
-                                $pagos = $pagosModel->obetenerPagosByPubId($publicacion->getId());
+//                                $pagos = $pagosModel->obetenerPagosByPubId($publicacion->getId());
                                 $html = '<div >'
                                         . '<form class="form-group" action="PUserUPub.php" method="POST">'
                                         . '<div class="panel panel-default">'
@@ -152,79 +150,79 @@ and open the template in the editor.
                                         . '<div class="panel-body">'
                                         . '<div id="estadoPub"> '
                                         . 'Estado: ';
-                                
+
                                 if ($publicacion->getActiva()) {
                                     $html .= 'Activa.';
                                 } else {
                                     $html .= 'Inactiva.';
                                 }
+//                                $html .= '</div> '
+//                                        . '</br> '
+//                                        . '<div id="estadoPago" ';
+//                                if (count($pagos) > 0) {
+//                                    //rejected=rechazado
+//                                    //pending=pendiente
+//                                    //approved=aprovado
+//                                    //print_r(end($pagos));
+//                                    $pago = end($pagos);
+//                                    
+//                                    
+//                
+//
+//                                    if ($pago->getActivo() == 1) {
+//                                        $html .= ' class="alert alert-success" >';
+//                                    } else {
+//                                        $html .= ' class="alert alert-danger" >';
+//                                    }
+//                                    $fecha = new DateTime($pago->getFecha());
+//                                    $html .= 'Pago: Generado el ' . $fecha->format('d-m-Y H:i') . ' a las ' . $fecha->format('H:i') . ' hs. </br>';
+//                                    if ($pago->getEstado() == '') {
+//                                        $html .= 'Estado: En proceso.';
+//                                    }
+//                                    if ($pago->getEstado() == 'approved') {
+//                                        $fechaPago = new DateTime($pago->getFecha_acreditacion());
+//                                        $html .= 'Estado: Acreditado el ' . $fechaPago->format('d-m-Y H:i') . ' a las ' . $fechaPago->format('H:i') . ' hs. </br>'
+//                                                . vencimiento($pago);
+//                                    }
+//                                    if ($pago->getEstado() == 'pending') {
+//                                        $html .= 'Estado: Pendiente de acreditación.';
+//                                    }
+//                                    if ($pago->getEstado() == 'rejected') {
+//
+//                                        $html .= 'Estado: Rechazado. Por favor intente nuevamente';
+//                                    }
+//                                } else {
+//                                    $html .= ' class="alert alert-danger" >';
+//                                    $html .= 'Pago: No se ha generado el pago. </br> '
+//                                            . 'Recuerde que debe pagar concretar el alta de la publicación.';
+//                                }
+
+
+
                                 $html .= '</div> '
-                                        . '</br> '
-                                        . '<div id="estadoPago" ';
-
-                                if (count($pagos) > 0) {
-                                    //rejected=rechazado
-                                    //pending=pendiente
-                                    //approved=aprovado
-                                    //print_r(end($pagos));
-                                    $pago = end($pagos);
-                                    
-                                    
-                
-
-                                    if ($pago->getActivo() == 1) {
-                                        $html .= ' class="alert alert-success" >';
-                                    } else {
-                                        $html .= ' class="alert alert-danger" >';
-                                    }
-                                    $fecha = new DateTime($pago->getFecha());
-                                    $html .= 'Pago: Generado el ' . $fecha->format('d-m-Y H:i') . ' a las ' . $fecha->format('H:i') . ' hs. </br>';
-                                    if ($pago->getEstado() == '') {
-                                        $html .= 'Estado: En proceso.';
-                                    }
-                                    if ($pago->getEstado() == 'approved') {
-                                        $fechaPago = new DateTime($pago->getFecha_acreditacion());
-                                        $html .= 'Estado: Acreditado el ' . $fechaPago->format('d-m-Y H:i') . ' a las ' . $fechaPago->format('H:i') . ' hs. </br>'
-                                                . vencimiento($pago);
-                                    }
-                                    if ($pago->getEstado() == 'pending') {
-                                        $html .= 'Estado: Pendiente de acreditación.';
-                                    }
-                                    if ($pago->getEstado() == 'rejected') {
-
-                                        $html .= 'Estado: Rechazado. Por favor intente nuevamente';
-                                    }
-                                } else {
-                                    $html .= ' class="alert alert-danger" >';
-                                    $html .= 'Pago: No se ha generado el pago. </br> '
-                                            . 'Recuerde que debe pagar concretar el alta de la publicación.';
-                                }
-
-
-
-                                $html .= '</div> '
+                                        . '<br>'
                                         . '<div class="btn-group ">'
-                                        . '<input type="submit" name="actualizarPub" class="btn btn-default " value="Editar">'
+                                        . '<input type="submit" name="actualizarPub" class="btn btn-default " value="Editar"/>'
                                         . '<input type="button" id="pausarReanudarPub" class="btn btn-default" ';
                                 if ($publicacion->getActiva() == 1) {
                                     $html .= 'value="Pausar" onclick=pausarReaudarPub("#publicacion")';
                                 } else {
                                     $html .= 'value="Reanudar" onclick=pausarReaudarPub("#publicacion")';
                                 }
-                                if (count($pagos) == 0) {
-                                    $html .= " disabled";
-                                } else {
-                                    if ($pago->getActivo() == 0) {
-                                        $html .= " disabled";
-                                    }
-                                }
+//                                if (count($pagos) == 0) {
+//                                    $html .= " disabled";
+//                                } else {
+//                                    if ($pago->getActivo() == 0) {
+//                                        $html .= " disabled";
+//                                    }
+//                                }
                                 $html .= '>'
-                                        . '<input type="button" id="pagarPub" class="btn btn-default" value="Pagar" onclick=pagarPublicacion()';
-                                if ($pago->getCategoria() == "deporvida") {
-                                    $html .= " disabled";
-                                }
-
-                                $html .= '>'
+//                                        . '<input type="button" id="pagarPub" class="btn btn-default" value="Pagar" onclick=pagarPublicacion()';
+//                                if ($pago->getCategoria() == "deporvida") {
+//                                    $html .= " disabled";
+//                                }
+//
+//                                $html .= '/>'
                                         . '<input name="publicacion" id="publicacion" type="hidden" value="' . $publicacion->getId() . '" />'
                                         . '</div>'
                                         . '</div>'
