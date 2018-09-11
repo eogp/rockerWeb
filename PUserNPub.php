@@ -68,8 +68,25 @@ and open the template in the editor.
                 <div class="center-block">
                     <form id="altaPublicacion" name="altaPublicacion" enctype="multipart/form-data" class="form-group" action="publicaciones.php" method="POST">
                         <div >
+                            <div class=" row">
+                                <label>Selecciona la categoria de tu publicación:</label>
+                            <div>
+                                <select class="form-control" id="tipoPub" name="tipoPub">
+                                    <?php
+                                    $tipoPubModel = new TipoPubModel();
+                                    $tiposPub = $tipoPubModel->listar();
+                                    echo '<option selected="true" disabled="disabled">Seleccione una categoria</option>';
+                                    foreach ($tiposPub as $tipoPub) {
+                                        echo '<option value="' . $tipoPub->getId() . '">' . $tipoPub->getDescripcion() . '</option>';
+                                    }
+                                    ?>
+                                </select>
+                                </div>
+                            </div>
+                            
                             <!--datos basicos publicación--------------------------------------->
                             <div class="row">
+                                
                                 <div >
                                     <label>Nombre de la Publicación:</label>
                                     <div >
@@ -180,25 +197,13 @@ and open the template in the editor.
 
                             <br />
 
-                            <label>Selecciona la categoria de tu publicación:</label>
-                            <div>
-                                <select class="form-control" id="tipoPub" name="tipoPub">
-                                    <?php
-                                    $tipoPubModel = new TipoPubModel();
-                                    $tiposPub = $tipoPubModel->listar();
-                                    echo '<option selected="true" disabled="disabled">Seleccione una categoria</option>';
-                                    foreach ($tiposPub as $tipoPub) {
-                                        echo '<option value="' . $tipoPub->getId() . '">' . $tipoPub->getDescripcion() . '</option>';
-                                    }
-                                    ?>
-                                </select>
-                            </div>
+                            
                             <div id="contenido" name="contenido">
                             </div>
                         </div>
                         <br />
                         <br />
-                        <input class="form-control" type="submit" name="altaPub" value="Guardar sala" />
+                        <input class="form-control" type="submit" name="altaPub" value="Publicar" />
                         <br />
                     </form>
                 </div>

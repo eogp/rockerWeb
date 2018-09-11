@@ -40,7 +40,7 @@ and open the template in the editor.
                         La guia del musico
                         </p>
                     </div>
-                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+<!--                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                         <br>
                         <br>
 
@@ -48,7 +48,7 @@ and open the template in the editor.
 
                             Volver al inicio >
                         </a>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </header>
